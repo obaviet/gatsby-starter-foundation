@@ -21,8 +21,7 @@ Trong bài viết này, chúng tôi sẽ chỉ ra cách tạo phễu bán hàng 
 
 ![Phễu Bán Hàng](/assets/sales-funnel-chart-example.png "Mô hình phễu bán hàng cơ bản")
 
-# Phễu bán hàng là gì?
-
+### Phễu bán hàng là gì?
 
 Một kênh bán hàng là hành trình mà một người thực hiện từ thời điểm họ tìm hiểu về doanh nghiệp của bạn, tất cả các cách để trở thành một khách hàng trung thành.
 
