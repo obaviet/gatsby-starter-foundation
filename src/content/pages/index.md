@@ -9,4 +9,4 @@ cta:
   ctaLink: /about
 ---
 
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Với nhiều năm theo đuổi kinh doanh online , tôi đã tích lũy cho mình nhiều kiến thức và kinh nghiệm hữu ích cho bản thân. Tôi hy vọng blog này sẽ là nơi tôi có thể chia sẻ những điều thú vị về marketing online để giúp bạn kinh doanh online thành công hơn. Thân!
