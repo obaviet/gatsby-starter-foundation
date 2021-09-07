@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cách tạo Phễu Bán Hàng chuyển đổi cao trong WordPress
-slug: cach-tao-pheu-ban-hang-chuyen-doi-cao-trong-wordpress
+slug: /cach-tao-pheu-ban-hang-chuyen-doi-cao-trong-wordpress
 date: 2020-05-13 12:46
 description: >-
   Bạn có muốn tạo phễu bán hàng chuyển đổi cao trong WordPress không?
