@@ -101,7 +101,7 @@ module.exports = {
         name: `VÀNG VĂN DỰ`,
         short_name: `VÀNG VĂN DỰ`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
+        background_color: `#5451d8`,
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
