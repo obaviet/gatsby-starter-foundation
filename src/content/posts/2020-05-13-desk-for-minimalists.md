@@ -19,7 +19,7 @@ Phễu bán hàng là con đường mà người dùng thực hiện trên trang
 
 Trong bài viết này, chúng tôi sẽ chỉ ra cách tạo phễu bán hàng chuyển đổi cao với các ví dụ thực tế. Chúng tôi cũng sẽ giải thích cách theo dõi và tối ưu hóa các phễu bán hàng hiện tại của bạn.
 
-![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
+![Royal Mail](/assets/sales-funnel-chart-example.png "Royal Mail from Unsplash")
 
 ## It doesn't look so shiny to me.
 
