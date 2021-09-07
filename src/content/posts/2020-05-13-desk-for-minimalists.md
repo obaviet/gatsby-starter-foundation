@@ -21,11 +21,16 @@ Trong bài viết này, chúng tôi sẽ chỉ ra cách tạo phễu bán hàng 
 
 ![Phễu Bán Hàng](/assets/sales-funnel-chart-example.png "Mô hình phễu bán hàng cơ bản")
 
-## It doesn't look so shiny to me.
+# Phễu bán hàng là gì?
 
-No! I want to live! There are still too many things I don't own! It doesn't look so shiny to me. I'm just glad my fat, ugly mama isn't alive to see this day. Soon enough. I'm sure those windmills will keep them cool.
+
+Một kênh bán hàng là hành trình mà một người thực hiện từ thời điểm họ tìm hiểu về doanh nghiệp của bạn, tất cả các cách để trở thành một khách hàng trung thành.
+
+Các nhà tiếp thị thường nói về phễu theo từng giai đoạn, từ nhận thức về vấn đề họ cần giải quyết, tất cả các cách để hành động để mua hàng.
 
 ![]()
+
+Các nhà tiếp thị thường nói về phễu theo từng giai đoạn, từ nhận thức về vấn đề họ cần giải quyết, tất cả các cách để hành động để mua hàng.
 
 1. Guards! Bring me the forms I need to fill out to have her taken away!
 2. Have you ever tried just turning off the TV, sitting down with your children, and hitting them?
