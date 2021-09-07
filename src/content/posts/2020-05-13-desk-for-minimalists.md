@@ -1,15 +1,23 @@
 ---
 template: blog-post
-title: Desk for minimalists
-slug: /minimalists-desk
+title: Cách tạo Phễu Bán Hàng chuyển đổi cao trong WordPress
+slug: cach-tao-pheu-ban-hang-chuyen-doi-cao-trong-wordpress
 date: 2020-05-13 12:46
-description: sdasd
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+description: >-
+  Bạn có muốn tạo phễu bán hàng chuyển đổi cao trong WordPress không?
+
+
+  Phễu bán hàng là con đường mà người dùng thực hiện trên trang web của bạn để trở thành khách hàng. Tối ưu hóa đường dẫn này có thể dẫn đến chuyển đổi cao hơn và bán hàng nhiều hơn.
+
+
+  Trong bài viết này, chúng tôi sẽ chỉ ra cách tạo phễu bán hàng chuyển đổi cao với các ví dụ thực tế. Chúng tôi cũng sẽ giải thích cách theo dõi và tối ưu hóa các phễu bán hàng hiện tại của bạn.
+featuredImage: /assets/sales-funnel-wp-og.png
 ---
+Bạn có muốn tạo phễu bán hàng chuyển đổi cao trong WordPress không?
 
-Uh, is the puppy mechanical in any way? Maybe I love you so much I love you no matter who you are pretending to be. If rubbin' frozen dirt in your crotch is wrong, hey I don't wanna be right. I found what I need. And it's not friends, it's things.
+Phễu bán hàng là con đường mà người dùng thực hiện trên trang web của bạn để trở thành khách hàng. Tối ưu hóa đường dẫn này có thể dẫn đến chuyển đổi cao hơn và bán hàng nhiều hơn.
 
-That's the ONLY thing about being a slave. OK, if everyone's finished being stupid. Bender, we're trying our best. Fry! Stay back! He's too powerful! I just told you! **You've killed me!** _And yet you haven't said what I told you to say!_ How can any of us trust you?
+Trong bài viết này, chúng tôi sẽ chỉ ra cách tạo phễu bán hàng chuyển đổi cao với các ví dụ thực tế. Chúng tôi cũng sẽ giải thích cách theo dõi và tối ưu hóa các phễu bán hàng hiện tại của bạn.
 
 ![Royal Mail](/assets/royal-mail-unsplash.jpg "Royal Mail from Unsplash")
 
@@ -27,9 +35,9 @@ No! I want to live! There are still too many things I don't own! It doesn't look
 
 A true inspiration for the children. Anyone who laughs is a communist! Can I use the gun? Oh, how I wish I could believe or understand that! There's only one reasonable course of action now: kill Flexo!
 
-- Fry! Stay back! He's too powerful!
-- Look, last night was a mistake.
-- Please, Don-Bot… look into your hard drive, and open your mercy file!
+* Fry! Stay back! He's too powerful!
+* Look, last night was a mistake.
+* Please, Don-Bot… look into your hard drive, and open your mercy file!
 
 And I'm his friend Jesus. One hundred dollars. There, now he's trapped in a book I wrote: a crummy world of plot holes and spelling errors! No! The cat shelter's on to me.
 
